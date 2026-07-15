@@ -5,11 +5,14 @@ Effective Date: 07/15/2026
 
 These SMS Terms and Conditions govern the use of text messaging communications provided by Henry A. McCleary, DC, LLC (“Dr. Mac’s Medical Pain Management & Wellness CTR,” “we,” “our,” or “us”). [2]
 
-1. Consent to Receive SMS Messages
+1. By opting in to receive SMS messages from Dr. Mac's Medical Pain Management & Wellness CTR., you agree to receive customer care messages.
 
-By providing your mobile phone number and opting in verbally, electronically, or during the appointment scheduling process, you consent to receive customer care text messages from Henry A. McCleary, DC, LLC. [2]
-
-Message frequency may vary depending on your interactions with our office. Message and data rates may apply according to your mobile carrier plan. [2]
+Message frequency: Message frequency may vary. On average, 1-2 messages per month.
+Opt-out: Reply STOP to cancel at any time.
+Help: Reply HELP for assistance.
+Message and data rates: Message and data rates may apply.
+Privacy Policy: https://github.com/gotoconnecttestuser-arch/HenryAMcClearyDCLLC_PP
+Your consent to receive SMS messages is not a condition of purchase or service.
 
 2. Types of Messages
 
